@@ -14,4 +14,4 @@ npm i
 ```bash
 npm run start
 ```
-3. Open `localhost:8001`
+3. Open the file by doing going to `http://localhost:8001/` or the listed URL in the console if different
